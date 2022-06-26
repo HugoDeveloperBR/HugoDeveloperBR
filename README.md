@@ -1,6 +1,6 @@
 <html>
   <head>    
-    <link href="https://unpkg.com/nes.css@2.3.0/css/nes.min.css" rel="stylesheet" />
+    <link href="nes.min.css" rel="stylesheet" />
   </head>
   <body>
     <a href="#" class="nes-badge">
