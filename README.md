@@ -1,14 +1,3 @@
-<html>
-  <head>    
-    <link href="nes.min.css" rel="stylesheet" />
-  </head>
-  <body>
-    <a href="#" class="nes-badge">
-      <span class="is-warning">great</span>
-    </a>
-  </body>
-</hml>
-
 ### Hi there 👋
 
 <!--
