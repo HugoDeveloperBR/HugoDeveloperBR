@@ -1,6 +1,9 @@
 <p align="center">
-  ![alt text](https://github.com/HugoDeveloperBR/hugodeveloperbr/blob/master/assets/hugodeveloper.gif)
+  <img width="600" height="338" src="https://github.com/HugoDeveloperBR/hugodeveloperbr/blob/master/assets/hugodeveloper.gif">
 </p>
+
+
+
 ### Hi there 👋
 
 <!--
