@@ -1,3 +1,4 @@
+![alt text](https://github.com/HugoDeveloperBR/hugodeveloperbr/blob/master/assets/hugodeveloper.gif)
 
 ### Hi there 👋
 
