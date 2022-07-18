@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" height="338" src="https://github.com/HugoDeveloperBR/hugodeveloperbr/blob/master/assets/hugodeveloper.gif">
+  <img width="700" height="394" src="https://github.com/HugoDeveloperBR/hugodeveloperbr/blob/master/assets/hugodeveloper.gif">
 </p>
 
 <h1 align="center">Hi 👋, I'm Hugo</h1>
